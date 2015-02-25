@@ -11,7 +11,7 @@ A repository for the Design Patterns workshop at Hacker School - https://www.hac
 
 ## How to use this repo
 
-Each pattern is briefly described below and it has an examples folder. Python code for the examples is provided there, together with a PRESENTATION_OUTLINE.md that outlines how the example was presented in the workshop.
+Each pattern is briefly described below and it has an examples folder. Python code for the examples is provided there, together with a *PRESENTATION_OUTLINE.md* that outlines how the example was presented in the workshop.
 
 ## Patterns
 
