@@ -107,6 +107,8 @@ class StringParser():
 
         short_str = product.replace("(Tariff number ", "")
         short_str = product.replace("(Tarifi number ", "")
+        short_str = product.replace("*Tariff number ", "")
+
         token = short_str.index(").")
 
         res["id"] = short_str[:token]

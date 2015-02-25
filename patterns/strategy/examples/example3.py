@@ -1,6 +1,6 @@
-from string_lists import list1, list2
+from string_lists import list1, list2, list3
 from pprint import pprint
-from parsers import get_parsers
+from parsers_4 import get_parsers
 
 
 class StringParser():
@@ -50,7 +50,7 @@ def main():
 
     sp = StringParser()
     res = sp.parse_string_list(list1)
-    res = sp.parse_string_list(list2)
+    res = sp.parse_string_list(list3)
 
     print "\n"
     pprint(res)
