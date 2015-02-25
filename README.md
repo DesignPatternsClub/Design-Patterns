@@ -15,15 +15,15 @@ Each pattern is briefly described below and it has an examples folder. Python co
 
 ## Patterns
 
-[x] Strategy (Agustín Benassi - Feb 25th 2015)
-[ ] Singleton (Gonçalo Morais - Mar 4th 2015)
-[ ] Abstract Factory, Builder, Factory Method
-[ ] Proxy
-[ ] Memento
-[ ] State
-[ ] Decorator
-[ ] Template method
-[ ] Null object
+- [x] Strategy (Agustín Benassi - Feb 25th 2015)
+- [ ] Singleton (Gonçalo Morais - Mar 4th 2015)
+- [ ] Abstract Factory, Builder, Factory Method
+- [ ] Proxy
+- [ ] Memento
+- [ ] State
+- [ ] Decorator
+- [ ] Template method
+- [ ] Null object
 
 ### Strategy (behavioral pattern)
 
