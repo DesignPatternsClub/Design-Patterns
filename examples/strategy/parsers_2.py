@@ -214,9 +214,10 @@ class ProductParser3(BaseProductParser):
 
 
 def get_parsers():
+    """Returns a list of references to the parsers classes."""
 
-    list_cls = (pyclbr.readmodule(__name__).keys())
-    list_cls_refs = [globals()[cls_name] for cls_name in list_cls]
+    list_cls_names = (pyclbr.readmodule(__name__).keys())
+    list_cls_refs = [globals()[cls_name] for cls_name in list_cls_names]
 
     return list_cls_refs
 
