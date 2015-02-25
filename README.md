@@ -37,6 +37,6 @@ Encapsulate algorithms inside classes and make them interchangeable. The goal is
 2. **Algorithms implementation encapsulated in families of classes**. There can be any number of derived classes and related algorithms should inherit common behavior or data from base classes.
 3. **No impact to the user when number or implementation of derived classes change**. The user shouldn't need to know the algorithms number, names or implementation details.
 
-[Strategy pattern examples folder](https://github.com/abenassi/Design-Patterns/tree/master/examples/strategy)
+[Strategy pattern examples folder](https://github.com/abenassi/Design-Patterns/tree/master/patterns/strategy)
 
 
