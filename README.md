@@ -16,12 +16,12 @@ Each pattern is briefly described below and it has an examples folder. Python co
 ## Patterns
 
 - [x] Strategy (Agustín Benassi - Feb 25th 2015)
-- [ ] Singleton (Gonçalo Morais - Mar 4th 2015)
-- [ ] Abstract Factory, Builder, Factory Method
+- [x] Singleton (Gonçalo Morais - Mar 4th 2015)
+- [ ] Abstract Factory, Builder, Factory Method (Libby Horaceck - Mar 11th 2015)
 - [ ] Proxy
 - [ ] Memento
-- [ ] State
 - [ ] Decorator
+- [ ] State
 - [ ] Template method
 - [ ] Null object
 
