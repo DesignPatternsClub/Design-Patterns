@@ -6,6 +6,7 @@ A repository for the Design Patterns workshop at Hacker School - https://www.hac
 * Design Patterns: Elements of Reusable Object-Oriented Software (Gang of 4) -  http://www.uml.org.cn/c++/pdf/DesignPatterns.pdf - This will be the book accompaniment for the HS workshop
 * http://sourcemaking.com/design_patterns - A friendly introduction to Design Patterns
 * Design Patterns in Python (Verma, R. and Giridhar, C.) - http://kennison.name/files/zopestore/uploads/python/DesignPatternsInPython_ver0.1.pdf - Some examples of python Design Patterns implementation
+* Head First Design Patterns (Freeman E. and Freeman E.) - Book edited by O'Reilly
 
 *Notes for this repo have been taken from all of the sources.*
 
