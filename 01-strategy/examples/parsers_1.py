@@ -1,5 +1,7 @@
 import re
 import pyclbr
+import os
+from pprint import pprint
 
 
 class BaseParser(object):
@@ -115,14 +117,20 @@ class ProductParser(BaseParser):
         return res
 
 
+def get_parsers_names():
+    """Returns a list of the parsers names."""
+
+    name = os.path.splitext(os.path.basename(__file__))[0]
+    list_cls_names = (pyclbr.readmodule(name).keys())
+
+    return list_cls_names
+
+
 def get_parsers():
     """Returns a list of references to the parsers classes."""
 
-    list_cls_names = (pyclbr.readmodule(__name__).keys())
-    list_cls_refs = [globals()[cls_name] for cls_name in list_cls_names]
-
-    return list_cls_refs
+    return [globals()[cls_name] for cls_name in get_parsers_names()]
 
 
 if __name__ == '__main__':
-    get_parsers()
+    pprint(sorted(get_parsers_names()))
