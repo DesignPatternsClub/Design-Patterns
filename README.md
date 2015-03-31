@@ -19,12 +19,10 @@ Each pattern is briefly described below and it has an examples folder. Python co
 - [x] Strategy (Agustín Benassi - Feb 25th 2015)
 - [x] Singleton (Gonçalo Morais - Mar 4th 2015)
 - [x] Abstract Factory, Builder, Factory Method (Libby Horaceck - Mar 11th 2015)
+- [x] Decorator (Agustín Benassi - Mar 18th 2015)
 - [ ] Template Method & Strategy Pattern (Pietro Menna Apr 1st 2015)
-- [ ] Decorator (Agustín Benassi - Mar 18th 2015)
 - [ ] Proxy
 - [ ] Memento
 - [ ] State
-- [ ] Template method
 - [ ] Null object
-
-
+- [ ] Command
