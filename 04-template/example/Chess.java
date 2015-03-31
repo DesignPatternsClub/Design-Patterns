@@ -11,6 +11,7 @@ class Chess extends Game {
     boolean endOfGame() {
         // Return true if in Checkmate or 
         // Stalemate has been reached
+        return false;
     }
     void printWinner() {
         // Display the winning player

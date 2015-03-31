@@ -14,6 +14,7 @@ class Monopoly extends Game {
     boolean endOfGame() {
         // Return true if game is over 
         // according to Monopoly rules
+        return false;
     }
     void printWinner() {
         // Display who won
