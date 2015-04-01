@@ -1,5 +1,5 @@
 # Design-Patterns workshop
-A repository for the Design Patterns workshop at Hacker School - https://www.hackerschool.com
+A repository for the Design Patterns workshop at Recurse Center - https://www.recurse.com
 
 ## Resources for studying Design Patterns
 
