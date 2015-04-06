@@ -23,7 +23,7 @@ Each pattern is briefly described below and it has an examples folder. Python co
 - [x] Template Method & Strategy Pattern (Pietro Menna - Apr 1st 2015)
 - [ ] Observer Pattern (Noella - Apr 8th 2015)
 - [ ] Proxy
-- [ ] Memento
+- [ ] Memento (Ahmed Abdalla - Apr 15th 2015)
 - [ ] State
 - [ ] Null object
 - [ ] Command
