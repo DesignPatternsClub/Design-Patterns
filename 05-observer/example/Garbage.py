@@ -1,3 +1,5 @@
+from Observable import Observable
+
 class GarbageBin(Observable):
 
 	def __init__(self):
