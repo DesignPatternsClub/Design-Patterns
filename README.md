@@ -21,9 +21,9 @@ Each pattern is briefly described below and it has an examples folder. Python co
 - [x] Abstract Factory, Builder, Factory Method (Libby Horaceck - Mar 11th 2015)
 - [x] Decorator (Agustín Benassi - Mar 18th 2015)
 - [x] Template Method & Strategy Pattern (Pietro Menna - Apr 1st 2015)
-- [ ] Observer Pattern (Noella - Apr 8th 2015)
-- [ ] Proxy
+- [x] Observer Pattern (Noella - Apr 8th 2015)
 - [ ] Memento (Ahmed Abdalla - Apr 15th 2015)
+- [ ] Proxy
 - [ ] State
 - [ ] Null object
 - [ ] Command
