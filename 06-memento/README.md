@@ -14,6 +14,7 @@ The only allowed action with a memento is to return it to its originator for the
 
 Software in the wild the utilizes this pattern:
 
+* Text editors - ability to undo/redo edits
 * SQL - ability to rollback a transaction or commit it
 * Git/VCS -  Ability to return to prior state if a merge/change failes
 * Video games - ability to save a game at a certain point and return to that point if the power goes out etc. Or think of quick saving.
